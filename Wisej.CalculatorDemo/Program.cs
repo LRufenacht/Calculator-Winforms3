@@ -12,7 +12,7 @@ namespace Wisej.CalculatorDemo
 		/// <param name="args">Arguments from the URL.</param>
 		static void Main(NameValueCollection args)
 		{
-			new Page1().Show();
+			new Form1().Show();
 		}
 	}
 }
